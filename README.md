@@ -66,4 +66,6 @@
 
 ### Pembagian IP
 
+<img src=pembagian-ip-cidr.png>
+
 ###  Testing
