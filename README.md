@@ -2,6 +2,7 @@
 | Nama | NRP |
 |----------|----------|
 | Handitanto Herprasetyo | 5025201077 |
+| Nadiah Nuri Aisyah  | 5025211210 |  
 
 <h2>Prefix IP</h2>
 
