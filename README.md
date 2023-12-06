@@ -11,9 +11,6 @@
 <h2>Soal</h2>
 <img src="soal.png">
 
-<h2>Topologi CPT</h2>
-<img src="topo.png">
-
 `Langkah 1`
 
 <h3>Menentukan jumlah IP yang dibutuhkan & Plotting Subnet</h3>
@@ -37,3 +34,12 @@
 <img src="nid.png">
 
 `Langkah 3`
+
+- Topologi CPT
+<img src="topo.png">
+  
+- Konfigurasi CPT
+<img src="konfigurasi.png">
+<img src="konfigurasi client.png">
+<img src="routing 1.png">
+<img src="routing 2.png">
