@@ -62,7 +62,7 @@
 
 ### Tree 
 
-<img src=tree-cidr1.png>
+<img src=tree-cidr2.png>
 
 ### Pembagian IP
 
