@@ -46,3 +46,24 @@
 
 - Testing
 <img src="testing.png">
+
+## CIDR
+
+###  Topologi
+
+<img src=CIDR.png>
+
+### Tabel Penggabungan
+
+<img src=cidr-gabung-12.png>
+<img src=cidr-gabung-34.png>
+<img src=cidr-gabung-56.png>
+<img src=cidr-gabung-78.png>
+
+### Tree 
+
+<img src=tree-cidr1.png>
+
+### Pembagian IP
+
+###  Testing
