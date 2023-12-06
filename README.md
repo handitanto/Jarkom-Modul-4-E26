@@ -8,3 +8,7 @@
 192.219.X.X
 
 <h2>Soal</h2>
+<img src="soal.png">
+
+<h2>Topologi CPT</h2>
+<img src="topo.jpg">
