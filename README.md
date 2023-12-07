@@ -68,4 +68,12 @@
 
 <img src=pembagian-ip-cidr.png>
 
+### Config
+
+Dapat dilihat pada dokumen CONFIG-GNS3-CIDR.pdf
+
 ###  Testing
+Melakukan ping ke GrobeForest melalui TurkRegion
+<img src=turk-grobe.png>
+Melakukan ping ke RiegelCanyon melalui GranzChannel
+<img scr=granz-riegel.png>
